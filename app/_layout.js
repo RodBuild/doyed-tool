@@ -1,18 +1,5 @@
-import { Stack } from 'expo-router'
-// export default Stack
-const Layout = () => {
-  return (
-    <Stack>
-      <Stack.Screen
-        name="index"
-        options={{
-          title: 'Login',
-          headerLeft: () => null,
-          headerShown: false,
-        }}
-      />
-    </Stack>
-  )
-}
+import { Slot } from 'expo-router'
 
-export default Layout
+export default function Layout() {
+  return <Slot />
+}

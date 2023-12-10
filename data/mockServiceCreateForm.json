@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "type": "basic",
+      "header": "What type of cleaning are you looking for today?",
+      "questions": [],
+      "answers": [
+        {
+          "answer": "Deep Cleaning",
+          "value": 2
+        },
+        {
+          "answer": "Regular Cleaning",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "multi",
+      "header": "How frequent would the service be?",
+      "questions": [],
+      "answers": [
+        {
+          "answer": "1",
+          "value": 1
+        },
+        {
+          "": "2",
+          "value": 2
+        },
+        {
+          "answer": "3",
+          "value": 3
+        },
+        {
+          "answer": "One time service",
+          "value": 2
+        }
+      ],
+      "multi-answers2": [
+        {
+          "answer1": "Week",
+          "value": 2
+        },
+        {
+          "answer1": "Month",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "radio",
+      "header": "Tell us about your place",
+      "questions": ["Size", "Rooms", "Floors"],
+      "answers": [
+        {
+          "options": [
+            {
+              "part1": "Small",
+              "part2": "Around 800 Sq.  Ft.",
+              "value": 1
+            },
+            {
+              "part1": "Medium",
+              "part2": "Around 1500 Sq.  Ft.",
+              "value": 2
+            },
+            {
+              "answer1": "Large",
+              "answer2": "Around 2000 Sq.  Ft.",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "options": [
+            {
+              "part1": "1",
+              "part2": "",
+              "value": 1
+            },
+            {
+              "part1": "2",
+              "part2": "",
+              "value": 2
+            },
+            {
+              "answer1": "3",
+              "answer2": "",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "options": [
+            {
+              "part1": "1",
+              "part2": "",
+              "value": 1
+            },
+            {
+              "part1": "2",
+              "part2": "",
+              "value": 2
+            },
+            {
+              "answer1": "3",
+              "answer2": "",
+              "value": 3
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "formula": "",
+  "updated": "2023-11-18"
+}

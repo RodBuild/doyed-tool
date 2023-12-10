@@ -1,5 +1,8 @@
 import { Pressable, Animated } from 'react-native'
 
+/**
+ * Wrap components to make them have a pressable effect
+ */
 export default function PressableButton({ children, onPress, style }) {
   const opacityValue = new Animated.Value(1)
 

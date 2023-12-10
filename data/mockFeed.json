@@ -1,0 +1,56 @@
+{
+  "oct23": {
+    "topBanner": {
+      "header": "How can we help you today?",
+      "subheader": "Our dedicated team is ready to help you!",
+      "image": "https://storage.googleapis.com/gen-atmedia/2/2015/04/52b8d4825906632e7b3252aad33f37de5e3a9581.jpeg"
+    },
+    "middleBanner": {
+      "header": "",
+      "subheader": "",
+      "contents": [
+        {
+          "id": "1",
+          "image": "https://cdn-icons-png.flaticon.com/512/1807/1807460.png?uid=R107925172",
+          "text": "Services",
+          "url": "default"
+        },
+        {
+          "id": "2",
+          "image": "https://cdn-icons-png.flaticon.com/512/4177/4177506.png?uid=R107925172",
+          "text": "Quote",
+          "url": "default"
+        },
+        {
+          "id": "3",
+          "image": "https://cdn-icons-png.flaticon.com/512/3947/3947043.png?uid=R107925172",
+          "text": "Contact Us",
+          "url": "default"
+        },
+        {
+          "id": "4",
+          "image": "https://cdn-icons-png.flaticon.com/512/733/733547.png",
+          "text": "Facebook",
+          "url": "https://www.facebook.com/doyed.llc"
+        },
+        {
+          "id": "5",
+          "image": "https://cdn-icons-png.flaticon.com/512/281/281764.png",
+          "text": "Google",
+          "url": "https://www.google.com/maps/place/Doyed+LLC/@43.5030825,-114.2925508,17z/data=!3m1!4b1!4m6!3m5!1s0x8dd05088162ee451:0x3ddf849163186c70!8m2!3d43.5030786!4d-114.2899759!16s%2Fg%2F11rh0fx17s?entry=ttu"
+        },
+        {
+          "id": "6",
+          "image": "https://cdn-icons-png.flaticon.com/512/2028/2028400.png",
+          "text": "Review??? and heck long text for testing xd loll",
+          "url": "facebook.com"
+        }
+      ]
+    },
+    "extras": [
+      { "id": "1", "header": "", "subheader": "" },
+      { "id": "2", "header": "", "subheader": "" },
+      { "id": "3", "header": "", "subheader": "" }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "name": "Deep Cleaning",
+    "imageLarge": "https://i.pinimg.com/736x/86/a0/57/86a057242f5636b8fc4670dd399d5cea.jpg",
+    "imageShort": "https://cdn-icons-png.flaticon.com/512/2954/2954919.png",
+    "descriptionLarge": "Our deep cleaning service is your answer to a meticulously clean and rejuvenated living space. Whether you're preparing for a special event, transitioning to a new season, or simply want to maintain a pristine home, our dedicated team of cleaning experts is here to transform your space.",
+    "descriptionShort": "Rejuvanate your space with our comprenhensive and meticuluos deep cleaning service.",
+    "hourRateDollars": 100,
+    "recommendations": {
+      "frequency": "We recommend a deep cleaning service at least two times per month."
+    }
+  },
+  {
+    "id": "2",
+    "name": "Office Cleaning",
+    "imageLarge": "https://bestlifeonline.com/wp-content/uploads/sites/3/2018/08/young-black-woman-cleaning-bathroom.jpg",
+    "imageShort": "https://cdn-icons-png.flaticon.com/512/3680/3680768.png",
+    "descriptionLarge": "Our office cleaning service is designed to meet the needs of businesses, large and small, to ensure your workspace remains not only clean but also conducive to productivity and employee well-being",
+    "descriptionShort": "Meet the goals of your business with our help, by assuring a pristine, hygienic, and inviting environment for all.",
+    "hourRateDollars": 200,
+    "recommendations": {
+      "frequency": "We recommend an office cleaning service at least once a week"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Apartment Cleaning",
+    "imageLarge": "https://www.poison.org/-/media/images/shared/articles/wood-floor-cleaners-man-cleaning-floor-212.jpg",
+    "imageShort": "https://cdn-icons-png.flaticon.com/512/1495/1495123.png",
+    "descriptionLarge": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt, libero at bibendum condimentum, odio orci accumsan lorem, et lacinia elit eros at ipsum. Phasellus laoreet ipsum ac risus posuere, vel suscipit velit dignissim. Sed et bibendum nulla. Sed aliquet arcu sit amet ligula gravida, vel varius elit dapibus. Praesent bibendum orci eu enim dignissim bibendum. ",
+    "descriptionShort": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt, libero at bibendum condimentum, odio orci accumsan lorem, et lacinia elit eros at ipsum.",
+    "hourRateDollars": 200,
+    "recommendations": {
+      "frequency": "We recommend an office cleaning service at least once a week"
+    }
+  },
+  {
+    "id": "4",
+    "name": "House Cleaning",
+    "imageLarge": "<link>",
+    "imageShort": "https://cdn-icons-png.flaticon.com/512/2954/2954870.png",
+    "descriptionLarge": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt, libero at bibendum condimentum, odio orci accumsan lorem, et lacinia elit eros at ipsum. Phasellus laoreet ipsum ac risus posuere, vel suscipit velit dignissim. Sed et bibendum nulla. Sed aliquet arcu sit amet ligula gravida, vel varius elit dapibus. Praesent bibendum orci eu enim dignissim bibendum. ",
+    "descriptionShort": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt, libero at bibendum condimentum, odio orci accumsan lorem, et lacinia elit eros at ipsum.",
+    "hourRateDollars": 200,
+    "recommendations": {
+      "frequency": "We recommend an office cleaning service at least once a week"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Rental Home Cleaning",
+    "imageLarge": "<link>",
+    "imageShort": "https://cdn-icons-png.flaticon.com/512/2028/2028400.png",
+    "descriptionLarge": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt, libero at bibendum condimentum, odio orci accumsan lorem, et lacinia elit eros at ipsum. Phasellus laoreet ipsum ac risus posuere, vel suscipit velit dignissim. Sed et bibendum nulla. Sed aliquet arcu sit amet ligula gravida, vel varius elit dapibus. Praesent bibendum orci eu enim dignissim bibendum. ",
+    "descriptionShort": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt, libero at bibendum condimentum, odio orci accumsan lorem, et lacinia elit eros at ipsum.",
+    "hourRateDollars": 200,
+    "recommendations": {
+      "frequency": "We recommend an office cleaning service at least once a week"
+    }
+  },
+  {
+    "id": "6",
+    "name": "Rental Home Cleaning",
+    "imageLarge": "<link>",
+    "imageShort": "https://cdn-icons-png.flaticon.com/512/2028/2028400.png",
+    "descriptionLarge": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt, libero at bibendum condimentum, odio orci accumsan lorem, et lacinia elit eros at ipsum. Phasellus laoreet ipsum ac risus posuere, vel suscipit velit dignissim. Sed et bibendum nulla. Sed aliquet arcu sit amet ligula gravida, vel varius elit dapibus. Praesent bibendum orci eu enim dignissim bibendum. ",
+    "descriptionShort": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt, libero at bibendum condimentum, odio orci accumsan lorem, et lacinia elit eros at ipsum.",
+    "hourRateDollars": 200,
+    "recommendations": {
+      "frequency": "We recommend an office cleaning service at least once a week"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Rental Home Cleaning",
+    "imageLarge": "<link>",
+    "imageShort": "https://cdn-icons-png.flaticon.com/512/2028/2028400.png",
+    "descriptionLarge": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt, libero at bibendum condimentum, odio orci accumsan lorem, et lacinia elit eros at ipsum. Phasellus laoreet ipsum ac risus posuere, vel suscipit velit dignissim. Sed et bibendum nulla. Sed aliquet arcu sit amet ligula gravida, vel varius elit dapibus. Praesent bibendum orci eu enim dignissim bibendum. ",
+    "descriptionShort": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt, libero at bibendum condimentum, odio orci accumsan lorem, et lacinia elit eros at ipsum.",
+    "hourRateDollars": 200,
+    "recommendations": {
+      "frequency": "We recommend an office cleaning service at least once a week"
+    }
+  }
+]
